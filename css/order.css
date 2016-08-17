@@ -1,0 +1,53 @@
+.express-check{
+		font-size: 16px;
+		font-family: "微软雅黑";
+	}
+	.express-check input{
+		height: 30px;
+		width: 300px;
+		text-align: center;
+		font-size: 16px;
+		font-family: "微软雅黑";
+	}
+	#sub{
+		width: 150px;
+		height: 40px;
+		border: none;
+		background: #2f70df;
+		color: #fff;
+		margin-left: 75px;
+	}
+	.order .order-title{
+		background: rgb(234, 248, 255);
+	}
+	.order table{
+		width: 100%;
+	}
+	/*.order table tr{
+		margin-bottom: 10px;
+	}*/
+	.order table td{
+		border: 1px solid #ccc;
+		height: 30px;
+		font-size: 16px;
+		font-family: "微软雅黑";
+		/*text-align: center;*/
+		text-indent: 15px;
+		line-height: 30px;
+	}
+	.order .see{
+		background:#2f70df;
+		display: inline-block;
+		margin-left: 10px;
+		width: 80px;
+		text-align:center;
+		text-indent:0;
+		color:#fff;
+		cursor:pointer;
+	}
+	.order .wuliu{
+		display: none;
+	}
+	.search-con{
+		color: #000;
+	}

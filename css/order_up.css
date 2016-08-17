@@ -1,0 +1,18 @@
+.up-order{
+	font-size: 16px;
+	font-family: "微软雅黑";
+}
+.up-order input{
+	height: 30px;
+	text-align: center;
+	font-size: 16px;
+	font-family: "微软雅黑";
+}
+#sub{
+	width: 150px;
+	height: 40px;
+	border: none;
+	background: #2f70df;
+	color: #fff;
+	margin-left: 350px;
+}
